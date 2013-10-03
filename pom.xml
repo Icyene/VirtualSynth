@@ -27,7 +27,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>synth.Synth</mainClass>
+                            <mainClass>tk.ivybits.synth.Synth</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

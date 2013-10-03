@@ -1,4 +1,4 @@
-package synth;
+package tk.ivybits.synth;
 
 import javax.sound.midi.*;
 import javax.swing.*;
